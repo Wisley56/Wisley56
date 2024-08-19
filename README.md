@@ -11,7 +11,7 @@ Sou um desenvolvedor de software apaixonado, atualmente atuando como Desenvolved
 Este GitHub serve como um portfólio para meus projetos pessoais de estudo, com planos de apresentar projetos profissionais no futuro. Aqui, você encontrará uma mistura de aplicativos móveis, aplicações web, e mais, à medida que expandir minha expertise.
 
 ### 🌟 Projetos em Destaque
-- **CogniQuiz**: Um aplicativo móvel projetado para ajudar as pessoas por meio da TCC uma técnica usada por psicólogos na forma de quiz - https://github.com/Wisley56/CogniQuiz-Therapy.
+- **CogniQuiz**: Um aplicativo móvel projetado para ajudar as pessoas por meio da TCC uma técnica usada por psicólogos na forma de quiz - [Repositório](https://github.com/Wisley56/CogniQuiz-Therapy).
 - **IA Friend**: Uma aplicação web desenvolvida por mim e um amigo que utiliza IA para fornecer assistência e ser um amigo do dia a dia - [Back-end](https://github.com/TechMind-Innovations/InnerFriend) - [Front-end](https://github.com/TechMind-Innovations/InnerFriend_FE).
 
 ### 🤝 Vamos nos Conectar
