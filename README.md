@@ -5,7 +5,7 @@ Sou um desenvolvedor de software apaixonado, atualmente atuando como Desenvolved
 
 - 🌱 **Aprendendo:** iOS Nativo, Desenvolvimento Front-end
 - 💻 **Experiência em:** Android Nativo, Back-end(.Net, Java)
-- 🛠 **Habilidades:** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) [!HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-F34B7F?style=flat&logo=c%2B%2B&logoColor=white)
+- 🛠 **Habilidades:** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-F34B7F?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### 🎯 Objetivo do GitHub
 Este GitHub serve como um portfólio para meus projetos pessoais de estudo, com planos de apresentar projetos profissionais no futuro. Aqui, você encontrará uma mistura de aplicativos móveis, aplicações web, e mais, à medida que expandir minha expertise.
@@ -17,4 +17,4 @@ Este GitHub serve como um portfólio para meus projetos pessoais de estudo, com 
 ### 🤝 Vamos nos Conectar
 Estou aberto a contribuições e ansioso para construir uma rede com desenvolvedores que pensam da mesma forma. Sinta-se à vontade para entrar em contato!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([(https://www.linkedin.com/in/wisley-victor-ferreira-santos-a2b642203/)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/wisley-victor-ferreira-santos-a2b642203/)
