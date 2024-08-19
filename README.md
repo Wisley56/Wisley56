@@ -12,7 +12,7 @@ Este GitHub serve como um portfólio para meus projetos pessoais de estudo, com 
 
 ### 🌟 Projetos em Destaque
 - **CogniQuiz**: Um aplicativo móvel projetado para ajudar as pessoas por meio da TCC uma técnica usada por psicólogos na forma de quiz - https://github.com/Wisley56/CogniQuiz-Therapy.
-- **IA Friend**: Uma aplicação web desenvolvida por mim e um amigo que utiliza IA para fornecer assistência e ser um amigo do dia a dia - Back-end: [https://github.com/TechMind-Innovations/InnerFriend] - Front-end:[https://github.com/TechMind-Innovations/InnerFriend_FE].
+- **IA Friend**: Uma aplicação web desenvolvida por mim e um amigo que utiliza IA para fornecer assistência e ser um amigo do dia a dia - [Back-end](https://github.com/TechMind-Innovations/InnerFriend) - [Front-end](https://github.com/TechMind-Innovations/InnerFriend_FE).
 
 ### 🤝 Vamos nos Conectar
 Estou aberto a contribuições e ansioso para construir uma rede com desenvolvedores que pensam da mesma forma. Sinta-se à vontade para entrar em contato!
