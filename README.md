@@ -3,7 +3,7 @@
 ### 🚀 Sobre Mim
 Sou um desenvolvedor de software apaixonado, atualmente atuando como Desenvolvedor Mobile na LG Lugar de Gente. Minha jornada na tecnologia é movida pela curiosidade e por um constante desejo de evoluir. Meu objetivo é me tornar um Desenvolvedor Full Stack, dominando tanto o desenvolvimento mobile quanto o web.
 
-- 🌱 **Aprendendo:** iOS Nativo, Desenvolvimento Front-end
+- 🌱 **Aprendendo:** iOS Nativo, Desenvolvimento Front-end, Flutter
 - 💻 **Experiência em:** Android Nativo, Back-end
 - 🛠 **Habilidades:** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-F34B7F?style=flat&logo=c%2B%2B&logoColor=white)
 
