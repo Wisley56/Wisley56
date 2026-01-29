@@ -1,20 +1,39 @@
-# 👋 Olá, eu sou o Wisley Victor!
+# Olá, eu sou o Wisley Victor!
 
-### 🚀 Sobre Mim
-Sou um desenvolvedor de software apaixonado, atualmente atuando como Desenvolvedor Mobile na LG Lugar de Gente. Minha jornada na tecnologia é movida pela curiosidade e por um constante desejo de evoluir. Meu objetivo é me tornar um Desenvolvedor que dominane tanto o desenvolvimento mobile quanto o web.
+### 📱 Software Engineer | Android • iOS • Flutter • Back-end
+Atualmente atuando na **LG Lugar de Gente**, focado no desenvolvimento de soluções escaláveis e seguras para o ecossistema mobile e back-end. Tenho mais de 2 anos e meio de experiência transformando desafios complexos em código eficiente e protegido.
 
-- 🌱 **Aprendendo:** iOS Nativo, Flutter
-- 💻 **Experiência em:** Android Nativo, Back-end
-- 🛠 **Habilidades:** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-007396?style=flat&logo=kotlin&logoColor=purple) ![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-F34B7F?style=flat&logo=c%2B%2B&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-007396?style=flat&logo=javascript&logoColor=yellow) ![Git](https://img.shields.io/badge/Git-007396?style=flat&logo=git&logoColor=orange)
+- 🛡️ **Especialista em Mobile:** Experiência em técnicas de obfuscação (R8/ProGuard), proteção Anti-Root, Anti-Frida e defesa contra engenharia reversa.
+- 🏗️ **Arquitetura:** Focado em Clean Architecture, MVVM e princípios SOLID para garantir código sustentável.
+- 🎓 **Ciência da Computação:** Formando pela PUC Goiás (2026/2).
 
-### 🎯 Objetivo do GitHub
-Este GitHub serve como um portfólio para meus projetos pessoais de estudo, com planos de apresentar projetos profissionais no futuro. Aqui, você encontrará uma mistura de aplicativos móveis, aplicações web, e mais, à medida que expandir minha expertise.
+---
+
+### 🛠 Tech Stack
+
+**Mobile:** ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+**Back-end & Infra:**
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Cybersecurity:**
+`Obfuscation` `Anti-Root` `Bypass Frida Prevention` `SSL Pinning` `Mobile Encryption`
+
+---
 
 ### 🌟 Projetos em Destaque
-- **CogniQuiz**: Um aplicativo móvel projetado para ajudar as pessoas por meio da TCC uma técnica usada por psicólogos na forma de quiz - [Repositório](https://github.com/Wisley56/CogniQuiz-Therapy).
-- **IA Friend**: Uma aplicação web desenvolvida por mim e um amigo que utiliza IA para fornecer assistência e ser um amigo do dia a dia - [Back-end](https://github.com/TechMind-Innovations/InnerFriend) - [Front-end](https://github.com/TechMind-Innovations/InnerFriend_FE).
 
-### 🤝 Vamos nos Conectar
-Estou aberto a contribuições e ansioso para construir uma rede com desenvolvedores que pensam da mesma forma. Sinta-se à vontade para entrar em contato!
+* **[CogniQuiz](https://github.com/Wisley56/CogniQuiz-Therapy):** App mobile de autoavaliação emocional utilizando **Clean Architecture** e **Kotlin**.
+* **[Inner Friend](https://github.com/TechMind-Innovations/InnerFriend):** Plataforma de suporte emocional com **IA (OpenAI API)** e arquitetura distribuída.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/wisley-victor-ferreira-santos-a2b642203/)
+---
+
+### 📈 Estatísticas & Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/wisleyvictor">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+> *"Codificando com propósito."*
