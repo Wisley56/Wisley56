@@ -21,13 +21,6 @@ Atualmente atuando na **LG Lugar de Gente**, focado no desenvolvimento de soluç
 
 ---
 
-### 🌟 Projetos em Destaque
-
-* **[CogniQuiz](https://github.com/Wisley56/CogniQuiz-Therapy):** App mobile de autoavaliação emocional utilizando **Clean Architecture** e **Kotlin**.
-* **[Inner Friend](https://github.com/TechMind-Innovations/InnerFriend):** Plataforma de suporte emocional com **IA (OpenAI API)** e arquitetura distribuída.
-
----
-
 ### 📈 Estatísticas & Contato
 
 <p align="left">
